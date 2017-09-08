@@ -1,0 +1,6 @@
+Assumptions made for this design:
+1. No burritos start with a tortilla
+2. It is possible to have no meat or no salsa
+3. All burritos can get tortilla and rice, except Burrito bowl
+4. Customers will not go back and modify/remove previous burritos
+5. Customers will always order at least one burrito product
